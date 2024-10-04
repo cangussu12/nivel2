@@ -1,3 +1,4 @@
+// biome-ignore lint/style/useImportType: <explanation>
 import { FastifyReply, FastifyRequest } from "fastify";
 
 export async function checkSessionIdExists(
